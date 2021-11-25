@@ -1,0 +1,4 @@
+git-log.txt
+index.html
+list.txt
+styles.css

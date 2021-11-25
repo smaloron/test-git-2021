@@ -1,0 +1,2 @@
+* 4900375 Ajout de styles, fond d'écran sur la page d'accueil
+* 0c74b6f Création de la page d'accueil
